@@ -1,0 +1,9 @@
+{
+    "name": "小王",
+    "age": 18,
+    "gender": "男",
+    "hobbies": [
+        "football",
+        "basketball"
+    ]
+}
